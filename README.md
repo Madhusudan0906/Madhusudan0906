@@ -57,7 +57,8 @@
 ![Madhusudan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhusudan0906&show_icons=true&theme=tokyonight)
 
 <br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=Madhusudan0906&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Madhusudan0906&theme=tokyonight)](https://git.io/streak-stats)
 
 
 <!--
