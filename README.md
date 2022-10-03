@@ -45,7 +45,14 @@
 <br/>
 <hr/>
 
+### Coding Skills
 
+<a href="https://leetcode.com/Mad06/"><img width="50px" src="https://user-images.githubusercontent.com/103635175/193608438-d8cb2eb4-0518-4cfc-a758-1bc7f7c5cc71.png" alt="Leetcode" /></a>
+<a href="https://www.hackerrank.com/prajapatmadhusu1"><img width="50px" src="https://user-images.githubusercontent.com/103635175/193608568-dab7f41f-cf8d-497e-a427-ef790e598bb2.png" alt="HackerRank" /></a>
+<a href="https://www.codewars.com/users/madhusudan"><img width="50px" src="https://user-images.githubusercontent.com/103635175/193608658-8bc34f85-196b-43c1-a361-012addf1e5b6.png" alt="CodeWars" /></a>
+
+<br/>
+<hr/>
 ### My Github Status :
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Madhusudan0906)
