@@ -63,7 +63,7 @@
 
 <br/>
 
-![Github Graph Contribution](https://activity-graph.herokuapp.com/graph?username=Madhusudan0906&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+![Github Graph Contribution](https://activity-graph.herokuapp.com/graph?username=Madhusudan0906&bg_color=1a1b27&color=70a5fd&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 
 <!--
