@@ -25,8 +25,10 @@
 
 ### connect me :
 
-[![image](https://user-images.githubusercontent.com/103635175/192428903-a9a77a8c-371b-478b-9730-ccf3312cf517.png)](https://madhusudan0906.github.io/)
-[![image](https://user-images.githubusercontent.com/103635175/192428999-336853fb-7cee-4e34-a3f7-3eb28bbb0b98.png)](https://www.linkedin.com/in/madhusudan-prajapat-918808169/)
+[![image](https://user-images.githubusercontent.com/103635175/192428903-a9a77a8c-371b-478b-9730-ccf3312cf517.png)](https://madhusudan0906.github.io/) &nbsp;&nbsp;
+[![image](https://user-images.githubusercontent.com/103635175/197335246-c3181a25-7e08-40cc-9de9-1310d137787f.png)](https://www.linkedin.com/in/madhusudan-prajapat-918808169/)
+
+
 
 <hr/>
 
