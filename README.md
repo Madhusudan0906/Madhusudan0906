@@ -62,7 +62,8 @@
 
 <hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudan0906&theme=tokyonight)
+![Madhusudan's GitHub stats](https://github-stats-alpha.vercel.app/api?username=madhusudan0906&cc=232130&tc=e5a9db&ic=0555ff&bc=007514)
+
 <br/>
 
 ![Madhusudan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhusudan0906&show_icons=true&theme=tokyonight)
@@ -70,6 +71,10 @@
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Madhusudan0906&theme=tokyonight)](https://git.io/streak-stats)
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudan0906&theme=tokyonight)
 
 <br/>
 
