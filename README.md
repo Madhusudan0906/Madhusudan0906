@@ -62,25 +62,21 @@
 
 <hr/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudan0906&theme=tokyonight)
+
 ![Madhusudan's GitHub stats](https://github-stats-alpha.vercel.app/api?username=madhusudan0906&cc=232130&tc=e5a9db&ic=0555ff&bc=007514)
 
 <br/>
-
+<!--
 ![Madhusudan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhusudan0906&show_icons=true&theme=tokyonight)
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Madhusudan0906&theme=tokyonight)](https://git.io/streak-stats)
+-->
+<!-- ![Github Graph Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Madhusudan0906&theme=react&bg_color=1a1b27&color=70a5fd&line=5BCDEC&point=FFFFFF&hide_border=true)
 
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudan0906&theme=tokyonight)
-
-<br/>
-
-![Github Graph Contribution](https://github-readme-activity-graph.vercel.app/graph?username=Madhusudan0906&theme=react&bg_color=1a1b27&color=70a5fd&line=5BCDEC&point=FFFFFF&hide_border=true)
-
-
+-->
 <!--
 **Madhusudan0906/Madhusudan0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
